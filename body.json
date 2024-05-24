@@ -1,0 +1,9 @@
+{
+    "name": "surenJsonFile",
+    "location":"America",
+    "phone":"1111111111",
+    "courses":[
+        "python1",
+        "python2"
+        ]
+}        
